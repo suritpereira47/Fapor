@@ -1,0 +1,617 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+header{
+  background-color:background-color: rgb(0,0,0) !important;
+  background-color: rgba(0,0,0, 0.4) !important;
+}
+
+    /*header end*/
+    /*slide start*/
+.banner1 ,.banner2 ,.banner3 {
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+.carousel-caption {
+    bottom: 160px !important;
+}
+.cc h5 {
+    font-size: 16px !important;
+    margin-bottom: 8px !important;
+}
+.cc h1 {
+    font-size: 20px !important;
+    margin-bottom: 15px !important;
+}
+.c-btn {
+    padding: 10px 21px;
+}
+.carousel-control-prev-icon ,.carousel-control-next-icon {
+    width: 20px;
+}
+.carousel-control-prev {
+    left: -0px;
+}
+.carousel-control-next{
+	right: -0px;
+}
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+}
+    /*slider end*/
+    /*help start*/
+.help{
+    padding-top: 40px !important;
+    padding-bottom:40px !important;
+}
+.h-single {
+    padding: 30px 0px 0;
+}
+.help-w h2 {
+    font-size: 21px;
+}
+.h-single h4 {
+    margin-top: 16px;
+}
+
+.icon-b i {
+    width: 70px !important;
+    height: 70px;
+    font-size: 55px;
+    line-height: 66px;
+}
+    /*help end*/
+    /*we sttart*/
+.we-are{
+    padding: 40px 0;
+}
+.we-w img {
+    width: 100%;
+}
+.we-text {
+    padding: 20px 21px;
+    text-align: center;
+}
+.we-text h2 {
+    margin-top: 10px;
+    font-size: 22px;
+}
+.we-line {
+    margin-top: 12px;
+    display: inline-block;
+}
+.we-p p {
+    margin-top: 0px;
+}
+.we-btn {
+    margin-top: 16px;
+    padding: 4px 9px;
+}
+    /*we end*/
+    /*recent start*/
+.recent{
+    padding: 40px 0;
+}
+.r-img1{
+    text-align: center;
+}
+.r-img1 img {
+    margin-top: 2px !important;
+    width: 90% !important;
+}
+.help-line {
+    margin-top: 20px;
+}
+.c-nave {
+    margin-top: 15px;
+}
+.nav-link {
+    padding: 3px 10px;
+}
+.c-nave {
+    margin-bottom: 25px;
+}
+.r-btn {
+    margin-top: 30px;
+    padding: 8px 25px;
+}
+    /*recent end*/
+    /*we work start*/
+.we-work{
+    padding: 40px 0;
+    background-color: #f7f7f7;
+}
+.we-work-text {
+    text-align: center;
+}
+.work-img img {
+    width: 80%;
+}
+.we-work-text h2 {
+    font-size: 21px;
+    margin-top: 20px;
+}
+.we-work-p p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.span-p p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.s-1 {
+    font-size: 16px;
+    padding-right: 7px;
+}
+.s-2 {
+    font-size: 15px;
+    padding-left: 4px;
+}
+    /*we work end*/
+    /*number start*/
+.number{
+    padding: 40px 0;
+}
+.number-w {
+    padding: 0 0px;
+}
+.number-w h3{
+    margin-top: 25px;
+}
+.number-w h4 {
+    margin-top: 15px !important;
+    font-size: 16px;
+}
+.number-line {
+    margin-top: 15px !important;
+}
+.number-w p{
+    margin-top: 5px;
+    font-size: 16px;
+    color: white;
+}
+    /*number end*/
+    /*team start*/
+.team{
+    padding: 40px 0;
+}
+.team-w{
+    margin-top: 20px;
+}
+.team-img{
+    text-align: center;
+}
+.team-img img{
+    width: 50%;
+}
+.team-text{
+    text-align: center;
+}
+.team-text  h3{
+    margin-top: 15px;
+}
+.team-text h4 {
+    margin-top: 10px;
+}
+.team-text p {
+    margin-top: 5px;
+}
+.team-text ul li a i{
+    margin-top: 15px;
+}
+    /*team end*/
+    /*FEATURES start*/
+.FEATURES{
+    padding: 40px 0;
+}
+.f-w{
+    margin-top: 15px;
+}
+.c-icon-f{
+    margin-top: 10px;
+}
+.features-p p{
+    padding: 0 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+    /*FEATURES end*/
+    /*FEATURES end*/
+.CLIENTS{
+    padding: 40px 0;
+}
+.c-s {
+    margin-top: 25px;
+}
+.carousel-control-prev, .carousel-control-next {
+    position: absolute;
+    top: -80px;
+}
+    /*CLIENTS end*/
+ 
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+header{
+  background-color:background-color: rgb(0,0,0) !important;
+  background-color: rgba(0,0,0, 0.4) !important;
+}
+    /*header end*/
+    /*slide start*/
+.banner1 ,.banner2 ,.banner3 {
+    padding-top: 150px;
+    padding-bottom: 400px;
+}
+.carousel-caption {
+    bottom: 181px !important;
+}
+.cc h5 {
+    font-size: 18px !important;
+    margin-bottom: 10px !important;
+}
+.cc h1 {
+    font-size: 37px !important;
+    margin-bottom: 25px !important;
+}
+.carousel-control-prev-icon ,.carousel-control-next-icon {
+    width: 28px;
+}
+.carousel-control-prev {
+    left: -0px;
+}
+.carousel-control-next{
+	right: -0px;
+}
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+}
+    /*slider end*/
+    /*help start*/
+.help{
+    padding-top: 60px !important;
+    padding-bottom: 60px !important;
+}
+.h-single {
+    padding: 30px 0px 0;
+}
+.h-single h4 {
+    margin-top: 16px;
+}
+.icon-b i {
+    width: 70px !important;
+    height: 70px;
+    font-size: 55px;
+    line-height: 66px;
+}
+    /*help end*/
+    /*we sttart*/
+.we-are{
+    padding: 60px 0px;
+}
+.we-w img {
+    padding: 0px 10px;
+    width: 100%;
+    margin-top: 92px;
+}
+.we-text {
+    padding: 28px 3px;
+}
+.we-text h2 {
+    margin-top: 0px;
+    font-size: 22px;
+}
+.we-line {
+    margin-top: 12px;
+}
+.we-p p {
+    margin-top: 0px;
+}
+.we-btn {
+    margin-top: 16px;
+    padding: 4px 9px;
+}
+    /*we end*/
+    /*recent start*/
+.recent{
+    padding: 60px 0;
+}
+.help-line {
+    margin-top: 20px;
+}
+.c-nave {
+    margin-top: 15px;
+}
+.nav-link {
+    padding: 0px 10px;
+}
+.r-btn {
+    margin-top: 25px;
+    padding: 10px 30px;
+}
+    /*recent end*/
+    /*we work start*/
+.we-work{
+    padding: 60px 0;
+    background-color: #f7f7f7;
+}
+.work-img img {
+    margin-top: 71px;
+}
+.we-work-p p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.span-p p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.s-1 {
+    font-size: 16px;
+    padding-right: 7px;
+}
+.s-2 {
+    font-size: 15px;
+    padding-left: 4px;
+}
+    /*we work end*/
+    /*number start*/
+.number{
+    padding: 60px 0;
+}
+.number-w {
+    padding: 0 0px;
+}
+.number-w h4 {
+    margin-top: 15px !important;
+    font-size: 16px;
+}
+.number-line {
+    margin-top: 15px !important;
+}
+.number-w p{
+    margin-top: 5px;
+    font-size: 16px;
+    color: white;
+}
+    /*number end*/
+    /*team start*/
+.team{
+    padding: 60px 0;
+}
+.team-w{
+    margin-top: 20px;
+}
+.team-img{
+    text-align: center;
+}
+.team-img img{
+    width: 60%;
+}
+.team-text{
+    text-align: center;
+}
+.team-text  h3{
+    margin-top: 15px;
+}
+.team-text h4 {
+    margin-top: 10px;
+}
+.team-text p {
+    margin-top: 5px;
+}
+    /*team end*/
+    /*FEATURES start*/
+.FEATURES{
+    padding: 60px 0;
+}
+.f-w{
+    margin-top: 15px;
+}
+.c-icon-f{
+    margin-top: 10px;
+}
+.features-p p{
+    margin-top: 10px;
+    text-align: center;
+}
+    /*FEATURES end*/
+.CLIENTS{
+    padding: 60px 0;
+}
+.c-s img{
+    width: 40%;
+}
+.c-s {
+    margin-top: 25px;
+}
+    /*CLIENTS end*/
+
+}
+
+/*Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+
+    /*header end*/
+    /*slider start*/
+.cc h1 {
+    font-size: 50px;
+    margin-bottom: 25px !important;
+}
+.carousel-caption {
+    bottom: 220px;
+}
+    /*slider end*/
+        /*help start*/
+.help{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.h-single {
+    padding: 30px 0px 0;
+}
+    /*help end*/
+    /*we sttart*/
+.we-are{
+    padding: 80px 0px !important;
+}
+.we-w img {
+    padding: 0px 18px !important;
+    width: 100%;
+    margin-top: 42px;
+}
+.we-text {
+    padding: 28px 21px;
+}
+.we-text h2 {
+    margin-top: 0px;
+    font-size: 22px;
+}
+.we-line {
+    margin-top: 12px;
+}
+.we-p p {
+    margin-top: 0px;
+}
+.we-btn {
+    margin-top: 16px;
+    padding: 4px 9px;
+}
+    /*we end*/
+    /*recent start*/
+.recent{
+    padding: 80px 0;
+}
+.c-nave {
+    margin-top: 15px;
+}
+.r-btn {
+    margin-top: 30px;
+    padding: 12px 36px;
+}
+    /*recent end*/
+    /*we work start*/
+.we-work{
+    padding: 80px 0;
+    background-color: #f7f7f7;
+}
+.we-work-p p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.span-p p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+    /*we work end*/
+    /*number start*/
+.number{
+    padding: 80px 0;
+}
+.number-w {
+    padding: 0 0px;
+}
+.number-w p{
+    margin-top: 20px;
+    font-size: 16px;
+    color: white;
+}
+    /*number end*/
+    /*team start*/
+.team{
+    padding: 80px 0;
+}
+.team-w{
+    margin-top: 30px;
+}
+.team-img{
+    text-align: center;
+}
+.team-img img{
+    width: 60%;
+}
+.team-text{
+    text-align: center;
+}
+.team-text  h3{
+    margin-top: 20px;
+}
+    /*team end*/
+    /*FEATURES start*/
+.FEATURES{
+    padding: 80px 0;
+}
+.f-w{
+    margin-top: 25px;
+}
+.c-icon-f{
+    margin-top: 10px;
+}
+    /*FEATURES end*/
+    /*CLIENTS start*/
+.CLIENTS{
+    padding: 80px 0;
+}
+.c-s {
+    margin-top: 25px;
+}
+    /*CLIENTS end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*we start*/
+.we-text {
+    padding: 9px 0;
+    padding-right: 60px;
+}
+    /*we  end*/
+    /*number start*/
+.number-w {
+    padding: 0 11px;
+}
+    /*number end*/
+    /*FEATURES start*/
+.features-p p{
+    margin-left: 25px;
+}
+    /*FEATURES end*/
+}
+
+/*X-Large devices (large desktop, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.we-w img {
+    margin-top: 45px;
+    padding: 0px 0;
+    width: 100%;
+}
+    /*number start*/
+.number-w {
+    padding: 0 32px;
+}
+    /*number end*/
+    /*FEATURES start*/
+.features-p p{
+    margin-left: 10px;
+}
+    /*FEATURES end*/
+}
+
+
+/*XX-Large devices (larger desktop, 1400px and up) */
+@media (min-width: 1400px) {
+    /*help start*/
+.h-single {
+    padding: 30px 64px 0;
+}
+	/*help end*/
+    /*FEATURES start*/
+.features-p p{
+    margin-top: 15px;
+}
+    /*FEATURES end*/
+}

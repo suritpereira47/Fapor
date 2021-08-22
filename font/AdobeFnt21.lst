@@ -1,0 +1,177 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Medium
+FamilyName:Roboto
+StyleName:Medium
+FullName:Roboto Medium
+MenuName:Roboto Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\web  development\Fapor\Font\Roboto\Roboto-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:168644
+FileModTime:1357668000
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto Medium
+NameArray:0,Win,16,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Regular
+FamilyName:Roboto
+StyleName:Regular
+FullName:Roboto
+MenuName:Roboto
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\web  development\Fapor\Font\Roboto\Roboto-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:168260
+FileModTime:1357668000
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Roboto
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+FullName:Lato Bold
+MenuName:Lato
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:F:\web  development\Fapor\Font\Lato\Lato-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:657188
+FileModTime:1438864918
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Bold
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Medium
+FamilyName:Lato
+StyleName:Medium
+FullName:Lato Medium
+MenuName:Lato Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\web  development\Fapor\Font\Lato\Lato-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:637068
+FileModTime:1438864920
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Medium
+NameArray:0,Win,1,Lato Medium
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+FullName:Lato Regular
+MenuName:Lato
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\web  development\Fapor\Font\Lato\Lato-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:657212
+FileModTime:1438864920
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Regular
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Semibold
+FamilyName:Lato
+StyleName:Semibold
+FullName:Lato Semibold
+MenuName:Lato Semibold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:F:\web  development\Fapor\Font\Lato\Lato-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:669228
+FileModTime:1438864920
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Lato Semibold
+NameArray:0,Win,1,Lato Semibold
+NameArray:0,Win,16,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\web  development\Fapor\Font\Icon-font-7-stroke-PIXEDEN-v-1.2.0\changelog-v1.2.0.txt
+FileModTime:1628374884
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\web  development\Fapor\Font\Icon-font-7-stroke-PIXEDEN-v-1.2.0\documentation.html
+FileModTime:1628374884
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\web  development\Fapor\Font\Icon-font-7-stroke-PIXEDEN-v-1.2.0\read-me.txt
+FileModTime:1628374884
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\web  development\Fapor\Font\Icon-font-7-stroke-PIXEDEN-v-1.2.0\icomoon\selection.json
+FileModTime:1628374884
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:F:\web  development\Fapor\Font\Icon-font-7-stroke-PIXEDEN-v-1.2.0\assets\Pe-icon-7-stroke.css
+FileModTime:1628374884
+%EndFont
+
