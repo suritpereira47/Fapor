@@ -120,8 +120,8 @@ header{
 	color: #b5a263;
 	background: white;
 	shadow-lg
-	-webkit-box-shadow: 0px 10px 19px -3px rgba(0,0,0,0.79); 
-     box-shadow: 0px 10px 19px -3px rgba(0,0,0,0.79);
+	-webkit-box-shadow: 0px 7px 15px 5px rgba(0,0,0,0.05); 
+    box-shadow: 0px 7px 15px 5px rgba(0,0,0,0.05);
 }
 
 .carousel-caption {
@@ -256,8 +256,8 @@ header{
 	color: white;
 	background: #b5a263;
 	shadow-lg
-	-webkit-box-shadow: 0px 10px 19px -3px rgba(0,0,0,0.79); 
-     box-shadow: 0px 10px 19px -3px rgba(0,0,0,0.79);
+	-webkit-box-shadow: 0px 7px 15px 5px rgba(0,0,0,0.05); 
+    box-shadow: 0px 7px 15px 5px rgba(0,0,0,0.05);
 }
 /*we end*/
 /*recent start*/
